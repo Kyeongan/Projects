@@ -11,7 +11,7 @@
 #include <math.h>
 #include <assert.h>
 #include <float.h>
-#include <omp.h>
+#include <omp.h> // https://en.wikipedia.org/wiki/OpenMP
 #include "sys/time.h"
 
 /* function prototupes */
