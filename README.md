@@ -1,2 +1,2 @@
-### k-means functaion
+### k-means function
 - Multithread programming Using OpenMP
