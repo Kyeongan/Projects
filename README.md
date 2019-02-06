@@ -5,7 +5,8 @@ Parallelize the sequence code for and image processing algorithm, which performs
 
 
 #### Resources
-~~~~model name: Quad-Core AMD Opteron(tm) Processor 2354
+~~~~
+model name: Quad-Core AMD Opteron(tm) Processor 2354
 cpu MHz: 1100.000
 cache size: 512 KB
 cpu cores: 4
